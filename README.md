@@ -106,7 +106,7 @@ This project has been documented in an IEEE research paper & project report that
 
 ## Contributors
 
-Hannan Chougle
-Ronak Ajwani
-Shreya Chhatwani
+Hannan Chougle,
+Ronak Ajwani,
+Shreya Chhatwani,
 Manit Khira
