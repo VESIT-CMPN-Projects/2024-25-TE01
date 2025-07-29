@@ -104,9 +104,4 @@ Example of a prompt template used for network security analysis.
 
 This project has been documented in an IEEE research paper & project report that details the methodology, implementation, and comparative analysis of different LLM approaches for network security.
 
-## Contributors
 
-Hannan Chougle,
-Ronak Ajwani,
-Shreya Chhatwani,
-Manit Khira
