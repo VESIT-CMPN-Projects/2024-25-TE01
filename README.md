@@ -1,4 +1,4 @@
-# LLM-Based Network Security Analysis System
+# Cyberthreat Hunting Using LLM
 
 This project presents a comprehensive approach to network security analysis using Large Language Models (LLMs). The system leverages both fine-tuning techniques and prompting strategies to detect and analyze network threats, providing detailed reports and recommendations for security professionals.
 
